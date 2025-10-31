@@ -13,7 +13,6 @@ int main() {
         cin >> nilai;
         total += nilai;
     }
-
     rata = total / n;
     cout << "Rata-rata = " << rata << endl;
 
